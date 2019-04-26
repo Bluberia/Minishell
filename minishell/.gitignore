@@ -1,0 +1,15 @@
+*.o
+*.a
+*.out
+vscode
+.vscode
+*.gcno
+*.gcda
+42sh
+test.info
+res
+tests/test
+.idea
+cmake-build-debug
+**/#*#
+**/*~
